@@ -23,3 +23,38 @@ html, body {
     color: transparent;
     text-shadow: 0 0 4px white;
   }
+  .count {
+    position: absolute;
+    margin: 0;
+    top: 35px;
+    right: 5px;
+    color: #aaa;
+  }
+  .m1 {
+    position: absolute;
+    margin: 0;
+    top: 50px;
+    right: 5px;
+    color: #aaa;
+  }
+  .m2 {
+    position: absolute;
+    margin: 0;
+    top: 65px;
+    right: 5px;
+    color: #aaa;
+  }
+  .m3 {
+    position: absolute;
+    margin: 0;
+    top: 80px;
+    right: 5px;
+    color: #aaa;
+  }
+  .m4 {
+    position: absolute;
+    margin: 0;
+    top: 95px;
+    right: 5px;
+    color: #aaa;
+  }
